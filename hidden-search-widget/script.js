@@ -5,4 +5,4 @@ const input = document.querySelector('.input');
 button.addEventListener('click', () => {
     search.classList.toggle('display-search'); 
     input.focus();
-})
+})  
